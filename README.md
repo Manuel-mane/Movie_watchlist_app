@@ -1,6 +1,5 @@
 # Movie Watchlist app
 
-This is a beginner level project that takes part of the Udemy course ["The Complete Python/PostgreSQL Course 2.0"](https://www.udemy.com/course/complete-python-postgresql-database-course/)
 
 In this repo I combined python with PostgreSQL using psycopg2 python library, to create an interactive app. Above the basic setup, in a future I will be improving this app by adding other options to interact with the user such as a GUI interface. 
 
